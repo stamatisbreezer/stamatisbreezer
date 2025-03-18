@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stamatisbreezer, student B.Sc(Hons) in Information Technology (IT) 
 - Dipl Pastry Chef
-- Adult & Elementery Trainer
+- Adult & Elementary Trainer
 - ☑️ Java, Hadoop, Spark, Scala, Python, Php 
 - 🎭Culture ✈️Travel 📚learning 💻Informatics 📖Reading 🤡Politics 🍰Pastry 📽 Movies 🥐 Baking 🕺Dancing 🥋🎻
 - From 🇬🇷 Greece
